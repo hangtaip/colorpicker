@@ -3,8 +3,8 @@
 Live Demo:
 https://hangtaip.github.io/colorpicker
 
-![Project Screenshot 1](./images/colorPickerBase.jpeg "Color Picker Base")
-![Project Screenshot 2](./images/colorPickerUploaded.jpeg "Color Picker Upload")
+![Project Screenshot 1](./images/colorpickerBase.jpeg "Color Picker Base")
+![Project Screenshot 2](./images/colorpickerUploaded.jpeg "Color Picker Upload")
 
 ### Objectives
 Build a color picker that can extract color from image
